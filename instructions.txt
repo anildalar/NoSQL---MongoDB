@@ -1,0 +1,22 @@
+Types of Databases
+SQL = Structured Query Language
+1. SQL Based
+			E.g MySQL,MariaDb,SQL Server,IBM DB2
+2. NoSQL Based Dbs
+			Eg. MongoDB, RedisDB, 
+					Key Value
+
+Node/Express + MongoDB
+
+We must have MongodDB Database
+1. Cloud
+2. Local Machine
+
+ServerSide Language + NoSQL
+ServerSide Language + SQL
+
+AWS = Amazon Web Service
+
+
+Connection String
+mongodb+srv://oklabs:<password>@oklabsmongodbserver.dgmru.mongodb.net/?retryWrites=true&w=majority
